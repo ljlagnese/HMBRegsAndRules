@@ -68,6 +68,7 @@ a) Important! Allowed metal shields must have only round shapes, made on the bas
 - thickness of protective material has to meet the requirements (stated below);
 - size and proportions of all the protective elements have to meet the requirements;
 - aesthetic appearance.
+
 2.5. All items of armor have to meet the technical and aesthetic requirements, and represent a complete set of one time period within 50 years.
 
 a) Important! Only in rare cases, due to the lack of information concerning the material culture of certain periods and regions, stylized armor elements are allowed. In this situation, a fighter can replace these items with the authentic elements, relating to the neighboring regions and periods, but only if everything looks aesthetically and proportionally. Concepts that require further interpretation and explanation:
