@@ -5,45 +5,45 @@ The following is a record of the HMB Rule set as copied from:
 ***
 ## 1.GENERAL REGULATIONS
 
- 1.1. The tournament category is represented by the fights, where the number of stout (clear) blows delivered with the combat part of the weapons at the accepted zone of an opponent is taken into account.
+  1.1. The tournament category is represented by the fights, where the number of stout (clear) blows delivered with the combat part of the weapons at the accepted zone of an opponent is taken into account.
 
   a) Important! The accepted zone excludes open face areas, groin, feet, back part of the neck, and back of knees.
 
- 1.2. There are no weight categories in the tournament categories.
+  1.2. There are no weight categories in the tournament categories.
 
- 1.3. The panel of marshals includes the knight marshal (chief referee), field marshals (referees), and a secretary.
+  1.3. The panel of marshals includes the knight marshal (chief referee), field marshals (referees), and a secretary.
 
   a) Important! In case of any disagreement a deciding vote belongs to the knight marshal.
 
- 1.4. The fights of the tournament category are held on the hard lists, from 15 to 40 m of length, from 7 to 20 m wide. The height of the sides is from 0.9 to 1.2 m.
+  1.4. The fights of the tournament category are held on the hard lists, from 15 to 40 m of length, from 7 to 20 m wide. The height of the sides is from 0.9 to 1.2 m.
 
- 1.5. The fight consists of 3 rounds, different weapons are used for each of them:
+  1.5. The fight consists of 3 rounds, different weapons are used for each of them:
 
   - the 1st round – “Longsword”. It lasts for 1.5 min. The winner is the one who has delivered more stout blows at the opponent during the round.
   - the 2nd round – “Sword-Buckler”. It consists of 3 bouts and each bout lasts to the first three stout blows. The winner is the one who wins the majority of the bouts in the round.
   - the 3rd round – “Sword-Shield”. It lasts for 1.5 min. The winner of the round is the one who has delivered more stout blows at the opponent during the round.
 
- 1.6. For each stout blow at the opponent’s accepted zone the fighter who has delivered it is awarded with one point.
+  1.6. For each stout blow at the opponent’s accepted zone the fighter who has delivered it is awarded with one point.
 
- 1.7. A blow is counted when it was deliberate, clear and was not blocked by the opponent’s defensive action with a shield or sword.
+  1.7. A blow is counted when it was deliberate, clear and was not blocked by the opponent’s defensive action with a shield or sword.
 
- 1.8. The blows are counted during the round. The fighter, who has got more points or, according to the conditions of a fight in the 2nd round, reaches a certain sum of points first, becomes a winner of the round.
+  1.8. The blows are counted during the round. The fighter, who has got more points or, according to the conditions of a fight in the 2nd round, reaches a certain sum of points first, becomes a winner of the round.
 
- 1.9. The fighter who wins in 2 or 3 rounds wins the fight. If the score of the rounds is draw, the disputable round continues till one of the fighters gains 3 points.
+  1.9. The fighter who wins in 2 or 3 rounds wins the fight. If the score of the rounds is draw, the disputable round continues till one of the fighters gains 3 points.
 
- 1.10. “Technical victory” with a score 3-0 is awarded to one of the fighters in the following cases:
+  1.10. “Technical victory” with a score 3-0 is awarded to one of the fighters in the following cases:
 
-  1.10.1. If an opponent refuses to fight before the beginning of a duel, does not come in time to the lists on call of the knight marshal or fails to prepare his equipment within the time set by the knight marshal.
+    1.10.1. If an opponent refuses to fight before the beginning of a duel, does not come in time to the lists on call of the knight marshal or fails to prepare his equipment within the time set by the knight marshal.
 
-   Not coming to the fight will lead to a warning (one Yellow card). If the fighter is removed from further participation in the fights (due to injury or disqualification), the “technical victory” is also awarded to his opponent.
+      Not coming to the fight will lead to a warning (one Yellow card). If the fighter is removed from further participation in the fights (due to injury or disqualification), the “technical victory” is also awarded to his opponent.
 
-  1.10.2. If the opponent cannot continue fighting because of an “accidental injury”.
+    1.10.2. If the opponent cannot continue fighting because of an “accidental injury”.
 
-   a) Important! If the fighter cannot continue the duel due to an injury, resulting from violations of the rules by his opponent, the latter gets a double warning (two Yellow cards) and is removed from participation in the fight. "Technical victory" is awarded to the injured fighter.
+      a) Important! If the fighter cannot continue the duel due to an injury, resulting from violations of the rules by his opponent, the latter gets a double warning (two Yellow cards) and is removed from participation in the fight. "Technical victory" is awarded to the injured fighter.
 
-  1.10.3. If an opponent gets two warnings within the fights (two Yellow cards).
+    1.10.3. If an opponent gets two warnings within the fights (two Yellow cards).
 
-  1.10.4. In case of appearance of factors, which, according to the knight marshal, put obstacles in the way of fights continuation, namely armor or weapons breakage (including the shield or sword), if it cannot be fixed or replaced within the allotted time (not more than 1 minute).
+    1.10.4. In case of appearance of factors, which, according to the knight marshal, put obstacles in the way of fights continuation, namely armor or weapons breakage (including the shield or sword), if it cannot be fixed or replaced within the allotted time (not more than 1 minute).
 ***
 ## 2. AUTHENTIC EQUIPMENT
 
