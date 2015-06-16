@@ -1,4 +1,11 @@
-# HMBRules
-Used to version control and discuss the rule set shared by HMB.
+# HMB Rules and Regulations
 
-[HMB Duels](./rules/duels.md)
+Used to version control and discuss the regulations and rule sets defined by HMB.
+
+## Rules:
+
+  * [HMB Duels](./rules/duels.md)
+
+## Regulations
+
+  * HMB Duels
